@@ -1,0 +1,27 @@
+name: Scrape DAW prices
+
+on:
+  schedule:
+    # 09:00 JST (= 00:00 UTC) and 21:00 JST (= 12:00 UTC)
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
+      - run: npm run scrape
+      - name: Commit prices.json if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): update prices.json"
+          file_pattern: data/prices.json

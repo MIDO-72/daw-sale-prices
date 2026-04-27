@@ -1,0 +1,375 @@
+{
+  "updatedAt": "2026-04-27T08:04:34.157Z",
+  "daws": [
+    {
+      "id": "cubase",
+      "name": "Cubase",
+      "vendor": "Steinberg",
+      "productUrl": "https://www.steinberg.net/ja/cubase/buy/",
+      "editions": [
+        {
+          "name": "Pro",
+          "priceJpy": 71500,
+          "url": "https://www.steinberg.net/ja/cubase/buy/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Artist",
+          "priceJpy": 38500,
+          "url": "https://www.steinberg.net/ja/cubase/buy/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Elements",
+          "priceJpy": 13200,
+          "url": "https://www.steinberg.net/ja/cubase/buy/",
+          "note": "公式参照価格(自動取得未確認)"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.519Z",
+      "error": "取得失敗: HTTP 404"
+    },
+    {
+      "id": "ableton",
+      "name": "Ableton Live",
+      "vendor": "Ableton",
+      "productUrl": "https://www.ableton.com/ja/shop/live/",
+      "editions": [
+        {
+          "name": "Suite",
+          "priceJpy": 80800,
+          "url": "https://www.ableton.com/ja/shop/live/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Standard",
+          "priceJpy": 52800,
+          "url": "https://www.ableton.com/ja/shop/live/"
+        },
+        {
+          "name": "Intro",
+          "priceJpy": 11800,
+          "url": "https://www.ableton.com/ja/shop/live/"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.540Z"
+    },
+    {
+      "id": "logic",
+      "name": "Logic Pro",
+      "vendor": "Apple",
+      "productUrl": "https://www.apple.com/jp/logic-pro/",
+      "editions": [
+        {
+          "name": "Mac版 (買い切り)",
+          "priceJpy": 30000,
+          "url": "https://www.apple.com/jp/logic-pro/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "iPad版 (月額)",
+          "priceJpy": 700,
+          "url": "https://www.apple.com/jp/logic-pro/",
+          "note": "月額 (年額7,000円)"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.541Z",
+      "error": "自動取得できず公式参照価格を表示"
+    },
+    {
+      "id": "flstudio",
+      "name": "FL Studio",
+      "vendor": "Image-Line",
+      "productUrl": "https://www.image-line.com/fl-studio/compare-editions/",
+      "editions": [
+        {
+          "name": "All Plugins Edition",
+          "priceJpy": 73700,
+          "url": "https://www.image-line.com/fl-studio/compare-editions/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Producer Edition",
+          "priceJpy": 36300,
+          "url": "https://www.image-line.com/fl-studio/compare-editions/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Signature Bundle",
+          "priceJpy": 47300,
+          "url": "https://www.image-line.com/fl-studio/compare-editions/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Fruity Edition",
+          "priceJpy": 18700,
+          "url": "https://www.image-line.com/fl-studio/compare-editions/",
+          "note": "公式参照価格(自動取得未確認)"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.541Z",
+      "error": "自動取得できず公式参照価格を表示"
+    },
+    {
+      "id": "protools",
+      "name": "Pro Tools",
+      "vendor": "Avid",
+      "productUrl": "https://www.avid.com/ja/pro-tools",
+      "editions": [
+        {
+          "name": "Studio (年間サブスク)",
+          "priceJpy": 47800,
+          "url": "https://www.avid.com/ja/pro-tools",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Artist (年間サブスク)",
+          "priceJpy": 14500,
+          "url": "https://www.avid.com/ja/pro-tools",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Intro",
+          "priceJpy": 0,
+          "url": "https://www.avid.com/ja/pro-tools",
+          "note": "無料"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.542Z",
+      "error": "取得失敗: HTTP 403"
+    },
+    {
+      "id": "studioone",
+      "name": "Studio One",
+      "vendor": "PreSonus",
+      "productUrl": "https://www.mi7.co.jp/products/presonus/studioone7/",
+      "editions": [
+        {
+          "name": "Pro",
+          "priceJpy": 49500,
+          "url": "https://www.mi7.co.jp/products/presonus/studioone7/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Artist",
+          "priceJpy": 13200,
+          "url": "https://www.mi7.co.jp/products/presonus/studioone7/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Prime",
+          "priceJpy": 0,
+          "url": "https://www.mi7.co.jp/products/presonus/studioone7/",
+          "note": "無料"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.542Z",
+      "error": "取得失敗: HTTP 404"
+    },
+    {
+      "id": "bitwig",
+      "name": "Bitwig Studio",
+      "vendor": "Bitwig",
+      "productUrl": "https://www.bitwig.com/ja/buy/",
+      "editions": [
+        {
+          "name": "Studio",
+          "priceJpy": 53900,
+          "url": "https://www.bitwig.com/ja/buy/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Producer",
+          "priceJpy": 26900,
+          "url": "https://www.bitwig.com/ja/buy/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Essentials",
+          "priceJpy": 13900,
+          "url": "https://www.bitwig.com/ja/buy/",
+          "note": "公式参照価格(自動取得未確認)"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.542Z",
+      "error": "取得失敗: HTTP 404"
+    },
+    {
+      "id": "reaper",
+      "name": "Reaper",
+      "vendor": "Cockos",
+      "productUrl": "https://www.reaper.fm/purchase.php",
+      "editions": [
+        {
+          "name": "Discount License (個人/小規模)",
+          "priceJpy": 9300,
+          "url": "https://www.reaper.fm/purchase.php",
+          "note": "$60 換算"
+        },
+        {
+          "name": "Commercial License",
+          "priceJpy": 35000,
+          "url": "https://www.reaper.fm/purchase.php",
+          "note": "$225 換算"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.543Z",
+      "error": "自動取得できず公式参照価格を表示"
+    },
+    {
+      "id": "reason",
+      "name": "Reason",
+      "vendor": "Reason Studios",
+      "productUrl": "https://www.reasonstudios.com/ja/shop/reason/",
+      "editions": [
+        {
+          "name": "Reason 13 (買い切り)",
+          "priceJpy": 65000,
+          "url": "https://www.reasonstudios.com/ja/shop/reason/",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "Reason+ (年間サブスク)",
+          "priceJpy": 30000,
+          "url": "https://www.reasonstudios.com/ja/shop/reason/",
+          "note": "公式参照価格(自動取得未確認)"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.543Z",
+      "error": "取得失敗: HTTP 404"
+    },
+    {
+      "id": "cakewalk",
+      "name": "Cakewalk by BandLab",
+      "vendor": "BandLab",
+      "productUrl": "https://www.bandlab.com/products/cakewalk",
+      "editions": [
+        {
+          "name": "本体 (無料)",
+          "priceJpy": 0,
+          "url": "https://www.bandlab.com/products/cakewalk",
+          "note": "無料"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.543Z"
+    },
+    {
+      "id": "digitalperformer",
+      "name": "Digital Performer",
+      "vendor": "MOTU",
+      "productUrl": "https://h-resolution.com/product/motu/digital_performer11/",
+      "editions": [
+        {
+          "name": "DP11",
+          "priceJpy": 76780,
+          "url": "https://h-resolution.com/product/motu/digital_performer11/",
+          "note": "公式参照価格(自動取得未確認)"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.544Z",
+      "error": "取得失敗: HTTP 404"
+    },
+    {
+      "id": "ardour",
+      "name": "Ardour",
+      "vendor": "Ardour Community",
+      "productUrl": "https://ardour.org/download.html",
+      "editions": [
+        {
+          "name": "ソースビルド",
+          "priceJpy": 0,
+          "url": "https://ardour.org/download.html",
+          "note": "無料 (寄付制)"
+        },
+        {
+          "name": "公式バイナリ (1ヶ月)",
+          "priceJpy": 150,
+          "url": "https://ardour.org/download.html",
+          "note": "$1〜任意 / 月"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.544Z"
+    },
+    {
+      "id": "luna",
+      "name": "LUNA",
+      "vendor": "Universal Audio",
+      "productUrl": "https://www.uaudio.jp/luna.html",
+      "editions": [
+        {
+          "name": "LUNA Pro (年間サブスク)",
+          "priceJpy": 30000,
+          "url": "https://www.uaudio.jp/luna.html",
+          "note": "公式参照価格(自動取得未確認)"
+        },
+        {
+          "name": "LUNA (基本機能・無料)",
+          "priceJpy": 0,
+          "url": "https://www.uaudio.jp/luna.html",
+          "note": "無料"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.544Z",
+      "error": "自動取得できず公式参照価格を表示"
+    },
+    {
+      "id": "waveform",
+      "name": "Waveform",
+      "vendor": "Tracktion",
+      "productUrl": "https://www.tracktion.com/products/waveform-pro",
+      "editions": [
+        {
+          "name": "Pro",
+          "priceJpy": 18000,
+          "url": "https://www.tracktion.com/products/waveform-pro",
+          "note": "$119 換算"
+        },
+        {
+          "name": "Free",
+          "priceJpy": 0,
+          "url": "https://www.tracktion.com/products/waveform-pro",
+          "note": "無料"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.544Z",
+      "error": "自動取得できず公式参照価格を表示"
+    },
+    {
+      "id": "mixcraft",
+      "name": "Mixcraft",
+      "vendor": "Acoustica",
+      "productUrl": "https://acoustica.com/mixcraft",
+      "editions": [
+        {
+          "name": "Pro Studio 11",
+          "priceJpy": 32000,
+          "url": "https://acoustica.com/mixcraft",
+          "note": "$199.95 換算"
+        },
+        {
+          "name": "Recording Studio 11",
+          "priceJpy": 14000,
+          "url": "https://acoustica.com/mixcraft",
+          "note": "$89.95 換算"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.544Z",
+      "error": "自動取得できず公式参照価格を表示"
+    },
+    {
+      "id": "garageband",
+      "name": "GarageBand",
+      "vendor": "Apple",
+      "productUrl": "https://www.apple.com/jp/mac/garageband/",
+      "editions": [
+        {
+          "name": "Mac/iOS",
+          "priceJpy": 0,
+          "url": "https://www.apple.com/jp/mac/garageband/",
+          "note": "無料 (Apple端末ユーザー)"
+        }
+      ],
+      "fetchedAt": "2026-04-27T08:04:31.545Z"
+    }
+  ]
+}
